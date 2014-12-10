@@ -1,3 +1,0 @@
-《参考ActiveMQ来设计SugarMQ》
-1.Connection应该是重量级的对象，因为它需要负责维护连接等信息。
-2.Session对象应该是轻量级的。
