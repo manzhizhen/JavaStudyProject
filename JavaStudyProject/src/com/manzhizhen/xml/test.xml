@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<school>
+	<students>
+		<student name="漫指针" age="19" tel="13817899999">
+			<desc>一个老实的好学生</desc>
+		</student>
+		<student name="三刀流" age="23" tel="13817899998">
+			<desc>一个爱闹的坏学生</desc>
+		</student>
+	</students>
+	<teachers>
+		<teacher name="付国华">
+			<lesson>数学</lesson>
+			<lesson>语文</lesson>
+			<lesson>英语</lesson>
+			<class>102</class>
+			<class>103</class>
+		</teacher>
+		<teacher name="董春国">
+			<lesson>数学</lesson>
+			<class>202</class>
+			<class>203</class>
+		</teacher>
+	</teachers>
+</school>

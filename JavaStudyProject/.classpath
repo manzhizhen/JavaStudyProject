@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/fluent-hc-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.3.1.jar" sourcepath="F:/开源项目源代码/httpcomponents-client-4.3.1-src.zip"/>
+	<classpathentry kind="lib" path="lib/httpclient-cache-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.3.jar" sourcepath="datasource/httpcomponents-client-4.3.1-src.zip"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-protobuf-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-jms_1.1_spec-1.1.1.jar" sourcepath="D:/.m2/repository/org/apache/geronimo/specs/geronimo-jms_1.1_spec/1.1.1/geronimo-jms_1.1_spec-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-jta_1.0.1B_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/hawtbuf-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/jcl-over-slf4j-1.6.6.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-validator-4.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-logging-3.1.0.CR2.jar"/>
+	<classpathentry kind="lib" path="lib/cglib-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/asm-5.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/xbean-spring-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-tx-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jms-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-jms-pool-5.10-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-pool-5.10-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/spring-web-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webmvc-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-broker-5.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-broker-5.10.0.jar" sourcepath="lib/activemq-broker-5.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-client-5.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-client-5.10.0.jar" sourcepath="lib/activemq-client-5.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-console-5.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-console-5.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-jaas-5.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-jaas-5.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-jms-pool-5.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-kahadb-store-5.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-kahadb-store-5.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-openwire-legacy-5.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-openwire-legacy-5.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-spring-5.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-spring-5.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-web-5.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-web-5.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-all-server-7.6.9.v20130131.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-websocket-7.6.9.v20130131.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-servlet_2.5_spec-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/insight-log-core-7.2.0.redhat-024.jar"/>
+	<classpathentry kind="lib" path="lib/insight-log4j-7.2.0.redhat-024-patched.jar"/>
+	<classpathentry kind="lib" path="lib/jcl-over-slf4j-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/hessian-4.0.38-sources.jar"/>
+	<classpathentry kind="lib" path="lib/hessian-4.0.38.jar" sourcepath="lib/hessian-4.0.38-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
